@@ -3,3 +3,5 @@ Esta es la práctica de Iván Ramos en el curso de Git y Github.
 Estoy honestamente muy emocionado por todo lo que estoy aprendiendo.
 
 Ahora voy a crear una versión para adaptarlo.
+
+Sigo haciendo cambios.
