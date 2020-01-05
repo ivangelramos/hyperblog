@@ -1,0 +1,3 @@
+Esta es la práctica de Iván Ramos en el curso de Git y Github.
+
+Estoy honestamente muy emocionado por todo lo que estoy aprendiendo.
